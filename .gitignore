@@ -1,0 +1,65 @@
+# ==============================
+# SECRETS
+# ==============================
+.env
+*.env
+.env.*
+.env.local
+.env.production
+.env.development
+.env.staging
+
+# ==============================
+# NODE / FRONTEND DEPENDENCIES
+# ==============================
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# ==============================
+# PYTHON CACHE & ENVIRONMENTS
+# ==============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+build/
+*.egg
+venv/
+env/
+.venv/
+ENV/
+.virtualenv/
+
+# ==============================
+# IDE & EDITOR FILES
+# ==============================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+.history/
+
+# ==============================
+# SYSTEM & LOGS
+# ==============================
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.log
+logs/
+
+# ==============================
+# TESTING & COVERAGE
+# ==============================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
