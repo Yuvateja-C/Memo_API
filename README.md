@@ -6,7 +6,7 @@
 [Groq](https://img.shields.io/badge/Inference-Groq-orange)
 [License](https://img.shields.io/badge/License-MIT-green)
 
-> A microservice component of the Credit Lending Platform — generates AI-powered underwriting memos for loan applications using CIBIL scores, FOIR analysis, and LLaMA 3.1 via Groq.
+> A microservice component of the Credit Lending Platform — generates AI-powered underwriting memos for loan applications using CIBIL scores, FOIR analysis, and openai/gpt-oss-20b via Groq.
 
 \---
 
